@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Mathematics Test</string>
+    <string name="questionOne">One plus One equals ?</string>
+    <string name="questionOne_radioButtonOne">4</string>
+    <string name="questionOne_radioButtonTwo">10</string>
+    <string name="questionOne_radioButtonThree">3</string>
+    <string name="questionOne_radioButtonFour">2</string>
+    <string name="questionTwo">Which option can get a result of 11 ? </string>
+    <string name="questionTwo_checkBoxOne">1 * 11</string>
+    <string name="questionTwo_checkBoxTwo">2 * 3</string>
+    <string name="questionTwo_checkBoxThree">20 - 9</string>
+    <string name="questionTwo_checkBoxFour">50 / 25</string>
+    <string name="questionThree">Eight plus Nine equals ?</string>
+    <string name="questionThree_radioButtonOne">65</string>
+    <string name="questionThree_radioButtonTwo">20</string>
+    <string name="questionThree_radioButtonThree">76</string>
+    <string name="questionThree_radioButtonFour">17</string>
+    <string name="questionFour">(4 + 5) * 9 = ?  </string>
+    <string name="questionFour_radioButtonOne">80</string>
+    <string name="questionFour_radioButtonTwo">70</string>
+    <string name="questionFour_radioButtonThree">81</string>
+    <string name="questionFour_radioButtonFour">50</string>
+    <string name="questionFive">(20 + 4) / 6 = ? </string>
+    <string name="Submit">Submit</string>
+
+</resources>
